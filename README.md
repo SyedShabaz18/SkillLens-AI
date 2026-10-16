@@ -202,6 +202,17 @@ This project is **not hardened for a public multi-tenant production service**. B
 
 <div align="center">
 
+## 👩‍💻 Author
+
+**Syed Shabaz Banu**
+
+B.Tech in Computer Science and Engineering (AI & ML)
+
+- GitHub: [@SyedShabaz18](https://github.com/SyedShabaz18)
+- Project: [SkillLens AI](https://github.com/SyedShabaz18)
+
+*Built with Python, FastAPI, and a passion for creating practical AI-powered tools.*
+
 **Built as a practical software-development portfolio project.**
 
 *SkillLens AI — make your next career step more intentional.*
