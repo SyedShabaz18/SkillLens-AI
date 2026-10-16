@@ -209,7 +209,8 @@ This project is **not hardened for a public multi-tenant production service**. B
 B.Tech in Computer Science and Engineering (AI & ML)
 
 - GitHub: [@SyedShabaz18](https://github.com/SyedShabaz18)
-- Project: [SkillLens AI](https://github.com/SyedShabaz18)
+-  Project Repository: [SkillLens AI](https://github.com/SyedShabaz18/SkillLens-AI)
+- Live Demo: [Try SkillLens AI](https://skilllens-ai-d2x5.onrender.com)
 
 *Built with Python, FastAPI, and a passion for creating practical AI-powered tools.*
 
